@@ -1,0 +1,1003 @@
+﻿skills,count,domain
+Sql,384,ASP .NET MVC
+System Design,322,ASP .NET MVC
+Database,316,ASP .NET MVC
+.net,314,ASP .NET MVC
+Javascript,309,ASP .NET MVC
+C#,298,ASP .NET MVC
+Visual Studio,294,ASP .NET MVC
+Html,291,ASP .NET MVC
+Testing,249,ASP .NET MVC
+Css,245,ASP .NET MVC
+Api,241,ASP .NET MVC
+Asp,190,ASP .NET MVC
+Reports,160,ASP .NET MVC
+Tfs,141,ASP .NET MVC
+Agile Writing,138,ASP .NET MVC
+Ui,130,ASP .NET MVC
+Java,126,ASP .NET MVC
+Xml,112,ASP .NET MVC
+Architecture models,100,ASP .NET MVC
+Js,96,ASP .NET MVC
+Web services,92,ASP .NET MVC
+Website Automation,88,ASP .NET MVC
+Automation,81,ASP .NET MVC
+Oracle,79,ASP .NET MVC
+Scrum,78,ASP .NET MVC
+Json,77,ASP .NET MVC
+Excel,76,ASP .NET MVC
+Html5,75,ASP .NET MVC
+Debugging,74,ASP .NET MVC
+Sdlc,72,ASP .NET MVC
+Technical System Design,355,Blockchain
+Java,327,Blockchain
+Cloud,306,Blockchain
+Api,270,Blockchain
+Database,254,Blockchain
+Oracle,248,Blockchain
+Testing,247,Blockchain
+System Analysis,243,Blockchain
+Agile,241,Blockchain
+Sql,241,Blockchain
+Aws,236,Blockchain
+Rest,229,Blockchain
+Architecture Design,227,Blockchain
+Docker,214,Blockchain
+Security,207,Blockchain
+Javascript,197,Blockchain
+Programming,187,Blockchain
+Mysql,185,Blockchain
+Automation,184,Blockchain
+IBM Blockchain,181,Blockchain
+Html,174,Blockchain
+Python,173,Blockchain
+Ui,170,Blockchain
+Linux,156,Blockchain
+Banking Operations,154,Blockchain
+Js,141,Blockchain
+Css,140,Blockchain
+Xml,127,Blockchain
+Reports,126,Blockchain
+Migration,123,Blockchain
+Analytics,360,Consultant
+Technical Consulting,355,Consultant
+Design,334,Consultant
+Java,327,Consultant
+System,322,Consultant
+Cloud,306,Consultant
+Api,270,Consultant
+Workflow Process,267,Consultant
+Engineering Process,257,Consultant
+Database,254,Consultant
+Oracle,248,Consultant
+Testing,247,Consultant
+Sql,241,Consultant
+Agile,241,Consultant
+Aws,236,Consultant
+Rest,229,Consultant
+Architecture Designing,227,Consultant
+Docker,214,Consultant
+Security,207,Consultant
+Communication,200,Consultant
+Javascript,197,Consultant
+Programming,187,Consultant
+Mysql,185,Consultant
+Automation,184,Consultant
+IBM GBS,181,Consultant
+Html,174,Consultant
+Python,173,Consultant
+Ui,170,Consultant
+Email communications,161,Consultant
+Training,155,Consultant
+Banking Process,154,Consultant
+Javascript,368,FULL STACK
+Css,291,FULL STACK
+Html,285,FULL STACK
+Database,266,FULL STACK
+Api,257,FULL STACK
+Java,255,FULL STACK
+Js,220,FULL STACK
+Sql,191,FULL STACK
+Ui Designing,185,FULL STACK
+Rest,170,FULL STACK
+Testing,168,FULL STACK
+Python,144,FULL STACK
+Aws,143,FULL STACK
+Cloud,140,FULL STACK
+Website Architecture,136,FULL STACK
+Windows,128,FULL STACK
+Php,121,FULL STACK
+Visual Studio,120,FULL STACK
+Json,105,FULL STACK
+Security,101,FULL STACK
+Github,98,FULL STACK
+Oracle,94,FULL STACK
+Android,86,FULL STACK
+C++,66,FULL STACK
+.net,64,FULL STACK
+Automation,63,FULL STACK
+Xml,62,FULL STACK
+Docker,61,FULL STACK
+Documentation,56,FULL STACK
+Django,56,FULL STACK
+Javascript,368,JAVA
+Css,291,JAVA
+Html,285,JAVA
+Database,266,JAVA
+Api,257,JAVA
+Java,255,JAVA
+Js,220,JAVA
+Mobile,216,JAVA
+Sql,191,JAVA
+Ui Designing,185,JAVA
+Rest,170,JAVA
+Testing,168,JAVA
+Analysis,156,JAVA
+Python,144,JAVA
+Aws,143,JAVA
+Cloud,140,JAVA
+Website,136,JAVA
+Architecture designing,134,JAVA
+Php,121,JAVA
+Visual Studio,120,JAVA
+Json,105,JAVA
+Security,101,JAVA
+Github,98,JAVA
+Oracle,94,JAVA
+Android Studio,86,JAVA
+Linux,85,JAVA
+SystemC,70,JAVA
+C++,66,JAVA
+.net,64,JAVA
+Automation,63,JAVA
+Python,2364,ML AI DL
+Data Analysis,1947,ML AI DL
+Machine learning,1741,ML AI DL
+Sql,1394,ML AI DL
+Algorithms,1337,ML AI DL
+Keras,1270,ML AI DL
+Tensorflow,1205,ML AI DL
+Ai,1123,ML AI DL
+Pandas,1094,ML AI DL
+Testing,953,ML AI DL
+Numpy,913,ML AI DL
+Database,901,ML AI DL
+Cloud,839,ML AI DL
+Java,805,ML AI DL
+Automation,782,ML AI DL
+Matplotlib,761,ML AI DL
+Data Mining,739,ML AI DL
+Opencv,715,ML AI DL
+Statistics,701,ML AI DL
+R,667,ML AI DL
+Api,639,ML AI DL
+C++,628,ML AI DL
+Aws,624,ML AI DL
+Excel,605,ML AI DL
+Modeling,595,ML AI DL
+Nltk,582,ML AI DL
+Image Segmentation,538,ML AI DL
+Oracle,515,ML AI DL
+Pytorch,491,ML AI DL
+IBM Watson,483,ML AI DL
+Oracle,287,ORACLE D2K
+Sql,275,ORACLE D2K
+Reports,269,ORACLE D2K
+Database,262,ORACLE D2K
+Analysis,208,ORACLE D2K
+Testing,196,ORACLE D2K
+Queries,164,ORACLE D2K
+Erp,133,ORACLE D2K
+Finance,119,ORACLE D2K
+Unix,103,ORACLE D2K
+C,102,ORACLE D2K
+Migration,96,ORACLE D2K
+Java,87,ORACLE D2K
+Documentation,86,ORACLE D2K
+Inventory,83,ORACLE D2K
+Reporting,76,ORACLE D2K
+Excel,75,ORACLE D2K
+Plan,72,ORACLE D2K
+Xml,70,ORACLE D2K
+Html,69,ORACLE D2K
+Debugging,66,ORACLE D2K
+Payroll,64,ORACLE D2K
+Linux,63,ORACLE D2K
+Shell,57,ORACLE D2K
+Security,56,ORACLE D2K
+Sdlc,56,ORACLE D2K
+Banking,53,ORACLE D2K
+Workflow,52,ORACLE D2K
+Troubleshooting,51,ORACLE D2K
+Retail,50,ORACLE D2K
+Oracle,331,ORACLE Erp App
+Erp,295,ORACLE Erp App
+Testing,247,ORACLE Erp App
+Analysis,241,ORACLE Erp App
+Reports,240,ORACLE Erp App
+Sql,227,ORACLE Erp App
+Inventory,178,ORACLE Erp App
+Finance,174,ORACLE Erp App
+Cloud,163,ORACLE Erp App
+Migration,156,ORACLE Erp App
+Documentation,147,ORACLE Erp App
+Purchasing,143,ORACLE Erp App
+Database,138,ORACLE Erp App
+Reporting,137,ORACLE Erp App
+Xml,112,ORACLE Erp App
+Plan,109,ORACLE Erp App
+Procurement,108,ORACLE Erp App
+Conversion,99,ORACLE Erp App
+Workflow,95,ORACLE Erp App
+Unix,93,ORACLE Erp App
+Consulting,91,ORACLE Erp App
+Accounting,89,ORACLE Erp App
+Requests,86,ORACLE Erp App
+Queries,81,ORACLE Erp App
+Automation,81,ORACLE Erp App
+Java,77,ORACLE Erp App
+Security,75,ORACLE Erp App
+Invoices,72,ORACLE Erp App
+Excel,72,ORACLE Erp App
+General ledger,66,ORACLE Erp App
+Oracle,331,ORACLE PLSQL
+Erp,295,ORACLE PLSQL
+Testing,247,ORACLE PLSQL
+Analysis,241,ORACLE PLSQL
+Reports,240,ORACLE PLSQL
+Sql,227,ORACLE PLSQL
+Inventory,178,ORACLE PLSQL
+Finance,174,ORACLE PLSQL
+Cloud,163,ORACLE PLSQL
+Migration,156,ORACLE PLSQL
+Documentation,147,ORACLE PLSQL
+Purchasing,143,ORACLE PLSQL
+Database,138,ORACLE PLSQL
+Reporting,137,ORACLE PLSQL
+Xml,112,ORACLE PLSQL
+Plan,109,ORACLE PLSQL
+Procurement,108,ORACLE PLSQL
+Conversion,99,ORACLE PLSQL
+Workflow,95,ORACLE PLSQL
+Unix,93,ORACLE PLSQL
+Consulting,91,ORACLE PLSQL
+Accounting,89,ORACLE PLSQL
+Requests,86,ORACLE PLSQL
+Automation,81,ORACLE PLSQL
+Queries,81,ORACLE PLSQL
+Java,77,ORACLE PLSQL
+Security,75,ORACLE PLSQL
+Invoices,72,ORACLE PLSQL
+Excel,72,ORACLE PLSQL
+General ledger,66,ORACLE PLSQL
+Branding,134,Public Relations
+Pr(Public Relations),122,Public Relations
+Marketing,119,Public Relations
+Communication,107,Public Relations
+Public relations,86,Public Relations
+English,82,Public Relations
+Content Writing,80,Public Relations
+Research,75,Public Relations
+Strategy,73,Public Relations
+Reports,62,Public Relations
+Journalism,61,Public Relations
+Planning,51,Public Relations
+Website,50,Public Relations
+Analysis,47,Public Relations
+Presentations,46,Public Relations
+Sales,46,Public Relations
+Excel,44,Public Relations
+Social media,43,Public Relations
+Health,41,Public Relations
+Designing,41,Public Relations
+Reporting,41,Public Relations
+Public Engagement,40,Public Relations
+Media relations,38,Public Relations
+Training,38,Public Relations
+Tv communication,35,Public Relations
+Editing,34,Public Relations
+Budget strategy,33,Public Relations
+Process,33,Public Relations
+Sports,33,Public Relations
+Mobile,33,Public Relations
+Procurement,97,Purchase-copy
+Vendors,91,Purchase-copy
+English,80,Purchase-copy
+Workflow Process,77,Purchase-copy
+Inventory,75,Purchase-copy
+Sap,73,Purchase-copy
+Purchasing,68,Purchase-copy
+Negotiation,60,Purchase-copy
+System design,60,Purchase-copy
+Market Analysis,58,Purchase-copy
+Erp,56,Purchase-copy
+Planning,55,Purchase-copy
+Sourcing,50,Purchase-copy
+Business Emailing,49,Purchase-copy
+Training,49,Purchase-copy
+Communication,48,Purchase-copy
+Excel,48,Purchase-copy
+Reports,47,Purchase-copy
+Operations,47,Purchase-copy
+Logistics,42,Purchase-copy
+Schedule Planning,41,Purchase-copy
+Contracts,40,Purchase-copy
+Finance,37,Purchase-copy
+Payments,36,Purchase-copy
+Designing,35,Purchase-copy
+Electrical,34,Purchase-copy
+Iso,30,Purchase-copy
+Sales,28,Purchase-copy
+Warehouse,27,Purchase-copy
+Purchase orders,27,Purchase-copy
+Testing,230,Quality Assurance and Testing-copy
+System design,183,Quality Assurance and Testing-copy
+Training,157,Quality Assurance and Testing-copy
+Test Analysis,146,Quality Assurance and Testing-copy
+Reports,140,Quality Assurance and Testing-copy
+Planning,129,Quality Assurance and Testing-copy
+Iso,107,Quality Assurance and Testing-copy
+Designing,100,Quality Assurance and Testing-copy
+Documentation,100,Quality Assurance and Testing-copy
+Reporting,95,Quality Assurance and Testing-copy
+Process Workflow,95,Quality Assurance and Testing-copy
+Quality assurance,85,Quality Assurance and Testing-copy
+Audit,80,Quality Assurance and Testing-copy
+Excel,78,Quality Assurance and Testing-copy
+Automation,74,Quality Assurance and Testing-copy
+Safety,74,Quality Assurance and Testing-copy
+Operations,71,Quality Assurance and Testing-copy
+Specifications,64,Quality Assurance and Testing-copy
+Test cases,59,Quality Assurance and Testing-copy
+C,57,Quality Assurance and Testing-copy
+Compliance,56,Quality Assurance and Testing-copy
+Sql,54,Quality Assurance and Testing-copy
+Agile,54,Quality Assurance and Testing-copy
+Database,52,Quality Assurance and Testing-copy
+Api,46,Quality Assurance and Testing-copy
+Electrical Assembly,44,Quality Assurance and Testing-copy
+Java,43,Quality Assurance and Testing-copy
+Selenium,42,Quality Assurance and Testing-copy
+Sap,41,Quality Assurance and Testing-copy
+Quality control,39,Quality Assurance and Testing-copy
+Designing,79,Reenforcements AI Architect
+Ai,75,Reenforcements AI Architect
+Test Analysis,75,Reenforcements AI Architect
+Process Workflow,73,Reenforcements AI Architect
+Architecture designing,71,Reenforcements AI Architect
+Cloud,63,Reenforcements AI Architect
+Automation,60,Reenforcements AI Architect
+Analytics,58,Reenforcements AI Architect
+Testing,57,Reenforcements AI Architect
+Oracle,57,Reenforcements AI Architect
+Sales,56,Reenforcements AI Architect
+Security,55,Reenforcements AI Architect
+Access Management,53,Reenforcements AI Architect
+Reports,52,Reenforcements AI Architect
+Sql,50,Reenforcements AI Architect
+Planning,47,Reenforcements AI Architect
+Reporting,46,Reenforcements AI Architect
+Migration,46,Reenforcements AI Architect
+Database,44,Reenforcements AI Architect
+Consulting,43,Reenforcements AI Architect
+Python,43,Reenforcements AI Architect
+Bank Process Flow,43,Reenforcements AI Architect
+Java,41,Reenforcements AI Architect
+Api,40,Reenforcements AI Architect
+Aws,39,Reenforcements AI Architect
+Compliance,37,Reenforcements AI Architect
+Research,36,Reenforcements AI Architect
+Marketing,36,Reenforcements AI Architect
+Mysql,35,Reenforcements AI Architect
+IBM Watson,34,Reenforcements AI Architect
+Sales,136,Retail
+Retail,133,Retail
+Inventory,99,Retail
+Marketing,79,Retail
+Branding,72,Retail
+Visual Marketing,70,Retail
+Test Analysis,67,Retail
+Planning,59,Retail
+Process Workflow,58,Retail
+Reports,56,Retail
+Excel,48,Retail
+Sap,42,Retail
+System design,36,Retail
+Vendors,36,Retail
+Budget,33,Retail
+Administration,32,Retail
+Reporting,30,Retail
+Customer service,30,Retail
+Audit,30,Retail
+Security,30,Retail
+Kpi,29,Retail
+Policies,29,Retail
+Warehouse,28,Retail
+Distribution,26,Retail
+Business development,26,Retail
+Compliance,25,Retail
+Presentation,25,Retail
+Scheduling Process Flow,25,Retail
+Inventory management,23,Retail
+Forecasting,23,Retail
+Marketing,209,Sales
+Sales,201,Sales
+Branding,152,Sales
+Business development,120,Sales
+Planning,102,Sales
+Process Workflow,98,Sales
+Research,96,Sales
+Distribution,91,Sales
+Forecasting,74,Sales
+Retail,73,Sales
+System design,72,Sales
+Reports,65,Sales
+Designing,57,Sales
+Presentations,57,Sales
+Negotiation,56,Sales
+Reporting,55,Sales
+Test Analysis,53,Sales
+Inventory,51,Sales
+Presentation,51,Sales
+Excel,50,Sales
+C,46,Sales
+Positioning,43,Sales
+Administration,41,Sales
+Crm,41,Sales
+Finance,41,Sales
+Retention,38,Sales
+Acquisition,37,Sales
+Public Engagement,36,Sales
+Advertising,36,Sales
+Policies,36,Sales
+Marketing,176,Social Media
+Content Writing,151,Social Media
+Facebook,143,Social Media
+Social media,118,Social Media
+Twitter,101,Social Media
+Website,88,Social Media
+Public Engagement,82,Social Media
+Analytics,79,Social Media
+Seo,75,Social Media
+Branding,65,Social Media
+Test Analysis,65,Social Media
+Sales,63,Social Media
+Designing,63,Social Media
+Advertising,62,Social Media
+Video Editting,61,Social Media
+Excel,52,Social Media
+Digital marketing,46,Social Media
+Editing,37,Social Media
+Cost Per Rating Point(CPR),34,Social Media
+Writing,27,Social Media
+Journalism,23,Social Media
+Administration,21,Social Media
+Adobe,20,Social Media
+Budget,20,Social Media
+Scheduling Process Flow,19,Social Media
+Networking,18,Social Media
+Consulting,17,Social Media
+BrandWriting,16,Social Media
+Conversion,13,Social Media
+Outreach,13,Social Media
+System administration,380,System and network admin-copy
+Hardware,316,System and network admin-copy
+Troubleshooting,291,System and network admin-copy
+Security,254,System and network admin-copy
+Cisco,251,System and network admin-copy
+Lan,249,System and network admin-copy
+Servers,249,System and network admin-copy
+Dhcp,226,System and network admin-copy
+Access Management,223,System and network admin-copy
+Dns,223,System and network admin-copy
+Routing,204,System and network admin-copy
+Linux,188,System and network admin-copy
+Os,156,System and network admin-copy
+Networking,147,System and network admin-copy
+Policies,146,System and network admin-copy
+Protocols,137,System and network admin-copy
+Designing,119,System and network admin-copy
+Active directory,118,System and network admin-copy
+Vmware,112,System and network admin-copy
+Database,110,System and network admin-copy
+Sql,104,System and network admin-copy
+InstallationNetworking,99,System and network admin-copy
+Electronics,83,System and network admin-copy
+C,82,System and network admin-copy
+Process Workflow,78,System and network admin-copy
+Operating systems,75,System and network admin-copy
+Testing,71,System and network admin-copy
+Documentation,68,System and network admin-copy
+Reports,66,System and network admin-copy
+InstallationMigration,57,System and network admin-copy
+Designing,287,Web Designer
+Css,239,Web Designer
+Website,215,Web Designer
+Html,204,Web Designer
+Javascript,197,Web Designer
+Adobe,175,Web Designer
+Illustrator,122,Web Designer
+Ui Designing,112,Web Designer
+Html5,91,Web Designer
+System administration,91,Web Designer
+Visual Studio,82,Web Designer
+C,60,Web Designer
+Java,59,Web Designer
+Marketing,54,Web Designer
+Seo,54,Web Designer
+Content,52,Web Designer
+Testing,51,Web Designer
+Mysql,51,Web Designer
+Ux,43,Web Designer
+Sql,40,Web Designer
+Database,40,Web Designer
+Excel,39,Web Designer
+Indesign,37,Web Designer
+Js,31,Web Designer
+Corel draw,29,Web Designer
+Interactive,28,Web Designer
+Test Analysis,25,Web Designer
+Website Conversion,20,Web Designer
+Graphic design,19,Web Designer
+Access Management,19,Web Designer
+Architecture designing,76,AI Architect
+System administration,73,AI Architect
+Process Workflow,69,AI Architect
+Test Analysis,66,AI Architect
+Cloud,65,AI Architect
+Ai,65,AI Architect
+Analytics,57,AI Architect
+Aws,57,AI Architect
+Sql,53,AI Architect
+Automation,53,AI Architect
+Database,52,AI Architect
+C,50,AI Architect
+Oracle,48,AI Architect
+Java,48,AI Architect
+Testing,47,AI Architect
+Machine learning,42,AI Architect
+Python,40,AI Architect
+Migration,39,AI Architect
+R,38,AI Architect
+IBM Watson,37,AI Architect
+Consulting,37,AI Architect
+Reporting,37,AI Architect
+Api,36,AI Architect
+Research,34,AI Architect
+Rest,33,AI Architect
+Security,31,AI Architect
+Mining,30,AI Architect
+Access Management,30,AI Architect
+C++,29,AI Architect
+Modeling,28,AI Architect
+Banking,222,Banking
+Finance,219,Banking
+Sales,209,Banking
+Retail,149,Banking
+Test Analysis,108,Banking
+Excel,105,Banking
+Reports,103,Banking
+Acquisition,102,Banking
+Process Workflow,97,Banking
+Transactions,92,Banking
+Policies,88,Banking
+Reporting,88,Banking
+System administration,81,Banking
+Audit,80,Banking
+Compliance,80,Banking
+Administration,74,Banking
+Regulatory,72,Banking
+Mis,71,Banking
+Accounting,61,Banking
+Documentation,58,Banking
+Planning,55,Banking
+Research,55,Banking
+Deposits,51,Banking
+Presentation,47,Banking
+Reconciliation,47,Banking
+Retention,45,Banking
+Business development,44,Banking
+Regulations,42,Banking
+Sourcing,41,Banking
+Customer service,40,Banking
+Python,98,OpenCV
+Opencv,70,OpenCV
+Algorithms,68,OpenCV
+Test Analysis,67,OpenCV
+Tensorflow,64,OpenCV
+Keras,59,OpenCV
+Machine learning,58,OpenCV
+Ai,56,OpenCV
+Research,52,OpenCV
+C++,51,OpenCV
+Pandas,46,OpenCV
+Analytics,43,OpenCV
+Electronics,42,OpenCV
+Designing,41,OpenCV
+R,38,OpenCV
+Process Workflow,37,OpenCV
+Video,36,OpenCV
+Architecture designing,36,OpenCV
+Sql,36,OpenCV
+Matlab,35,OpenCV
+Cloud,34,OpenCV
+Matplotlib,32,OpenCV
+Segmentation,31,OpenCV
+Database,31,OpenCV
+Aws,30,OpenCV
+Automation,28,OpenCV
+Testing,28,OpenCV
+Api,27,OpenCV
+Visual Studio,26,OpenCV
+Flask,26,OpenCV
+Pytorch,25,OpenCV
+Mining,24,OpenCV
+Java,23,OpenCV
+Nltk,23,OpenCV
+Python,94,Data Science
+Test Analysis,85,Data Science
+Analytics,79,Data Science
+Sql,64,Data Science
+R,64,Data Science
+Tableau,54,Data Science
+Algorithms,54,Data Science
+Machine learning,54,Data Science
+Process Workflow,51,Data Science
+Mining,48,Data Science
+Pandas,45,Data Science
+Research,44,Data Science
+Statistics,43,Data Science
+Sales,39,Data Science
+Matplotlib,38,Data Science
+Forecasting,36,Data Science
+Modeling,36,Data Science
+Database,36,Data Science
+Excel,36,Data Science
+Reporting,32,Data Science
+Automation,31,Data Science
+Tensorflow,31,Data Science
+Data analysis,30,Data Science
+Segmentation,30,Data Science
+Keras,30,Data Science
+Ai,28,Data Science
+Cloud,27,Data Science
+Spark,27,Data Science
+Metrics,25,Data Science
+Seaborn,25,Data Science
+Jupyter,24,Data Science
+Hadoop,22,Data Science
+Finance,368,Finance
+Accounting,313,Finance
+Test Analysis,303,Finance
+Finance Reporting,283,Finance
+Tax,274,Finance
+Audit,271,Finance
+Reports,267,Finance
+Erp,214,Finance
+Sales,204,Finance
+System administration,201,Finance
+Reconciliation,185,Finance
+Excel,184,Finance
+Budgeting,183,Finance
+Sap,173,Finance
+Filing,155,Finance
+Forecasting,152,Finance
+Expenses,134,Finance
+Banking,133,Finance
+Auditing,131,Finance
+Legal,125,Finance
+Transactions,114,Finance
+Receivables,102,Finance
+Documentation,97,Finance
+Forecasts,93,Finance
+Oracle,89,Finance
+Invoices,70,Finance
+Financial statements Mis,60,Finance
+Gaap,53,Finance
+Retail,51,Finance
+Billing,50,Finance
+Recruitment,184,Human resource
+Engagement,151,Human resource
+Process Workflow,149,Human resource
+Policies,142,Human resource
+System administration,126,Human resource
+Payroll,116,Human resource
+Compliance,112,Human resource
+Administration,108,Human resource
+Acquisition,106,Human resource
+Reports,99,Human resource
+Data Analysis,94,Human resource
+Employee engagement,85,Human resource
+Planning,81,Human resource
+Human resources,79,Human resource
+Retention,78,Human resource
+Excel,68,Human resource
+Sourcing,64,Human resource
+Database,64,Human resource
+Talent acquisition,63,Human resource
+Budgeting,61,Human resource
+Staffing,60,Human resource
+Legal,59,Human resource
+Marketing,58,Human resource
+Employee relations,54,Human resource
+Email Writing,53,Human resource
+Audit,51,Human resource
+Branding,49,Human resource
+Negotiation,48,Human resource
+Recruiting,47,Human resource
+Word,44,Human resource
+Budgeting,43,Human resource
+Talent management,39,Human resource
+Process Workflow,124,Insurance
+Sales,106,Insurance
+Market Analysis,86,Insurance
+Email Writing,82,Insurance
+Policies,79,Insurance
+Excel,73,Insurance
+Reports,71,Insurance
+Marketing,70,Insurance
+Underwriting,68,Insurance
+Finance,62,Insurance
+Mis,62,Insurance
+Health,59,Insurance
+Compliance,49,Insurance
+Documentation,48,Insurance
+Payments,36,Insurance
+Planning,34,Insurance
+Banking,32,Insurance
+Accounting,32,Insurance
+Negotiation,31,Insurance
+Audit,29,Insurance
+Reconciliation,28,Insurance
+Legal,27,Insurance
+Presentations,26,Insurance
+Retail,25,Insurance
+Distribution,25,Insurance
+Travel,24,Insurance
+Consulting,23,Insurance
+Analytics,23,Insurance
+Risk management,23,Insurance
+Automation,22,Insurance
+Fetching Contracts,20,Insurance
+Java,375,JavaJ2EE
+System administration,296,JavaJ2EE
+Oracle,286,JavaJ2EE
+Jsp,281,JavaJ2EE
+Designing,278,JavaJ2EE
+Database,276,JavaJ2EE
+Sql,268,JavaJ2EE
+Testing,255,JavaJ2EE
+Html,251,JavaJ2EE
+Mysql,237,JavaJ2EE
+Javascript,219,JavaJ2EE
+Rest,217,JavaJ2EE
+Process Workflow,211,JavaJ2EE
+Requirement Analysis,208,JavaJ2EE
+Servers,186,JavaJ2EE
+Css,183,JavaJ2EE
+Api,178,JavaJ2EE
+Xml,164,JavaJ2EE
+Architecture designing,143,JavaJ2EE
+Ui Designing,141,JavaJ2EE
+Soap,128,JavaJ2EE
+Access Management,124,JavaJ2EE
+Reports,119,JavaJ2EE
+Web services,115,JavaJ2EE
+Security,108,JavaJ2EE
+Cloud,105,JavaJ2EE
+Banking,103,JavaJ2EE
+Js,96,JavaJ2EE
+Automation,91,JavaJ2EE
+Sdlc,84,JavaJ2EE
+Research,128,Market research
+Requirement Analysis,117,Market research
+Reports,106,Market research
+Excel,97,Market research
+Marketing,95,Market research
+Sales,79,Market research
+Powerpoint,60,Market research
+Word,60,Market research
+Database,56,Market research
+Consulting,55,Market research
+Analytics,49,Market research
+Forecasting,46,Market research
+Profiling,45,Market research
+Emailing,42,Market research
+Market research,42,Market research
+Presentations,41,Market research
+Data analysis,39,Market research
+Designing,34,Market research
+Benchmarking,33,Market research
+Content Creating,31,Market research
+Finance,30,Market research
+Retail,30,Market research
+Process Workflow,28,Market research
+Planning,28,Market research
+Tableau,25,Market research
+Crm,23,Market research
+Salesforce,17,Market research
+Swot analysis,16,Market research
+Proposal,15,Market research
+Testing,15,Market research
+Marketing,92,Marketing Mix Modelling
+Requirement Analysis,89,Marketing Mix Modelling
+Analytics,89,Marketing Mix Modelling
+Sales,79,Marketing Mix Modelling
+Research,67,Marketing Mix Modelling
+Sql,66,Marketing Mix Modelling
+R,64,Marketing Mix Modelling
+Excel,59,Marketing Mix Modelling
+Tableau,56,Marketing Mix Modelling
+Sas,55,Marketing Mix Modelling
+Retail,53,Marketing Mix Modelling
+Process Workflow,50,Marketing Mix Modelling
+Segmentation,48,Marketing Mix Modelling
+Designing,48,Marketing Mix Modelling
+Forecasting,47,Marketing Mix Modelling
+Modeling,46,Marketing Mix Modelling
+Planning,43,Marketing Mix Modelling
+Reporting,43,Marketing Mix Modelling
+Consulting,39,Marketing Mix Modelling
+Statistics,38,Marketing Mix Modelling
+Mining,37,Marketing Mix Modelling
+System administration,36,Marketing Mix Modelling
+Testing,33,Marketing Mix Modelling
+Telecom,31,Marketing Mix Modelling
+Automation,30,Marketing Mix Modelling
+Retention,29,Marketing Mix Modelling
+Budget,29,Marketing Mix Modelling
+Branding,27,Marketing Mix Modelling
+Programming,27,Marketing Mix Modelling
+Algorithms,27,Marketing Mix Modelling
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,0
