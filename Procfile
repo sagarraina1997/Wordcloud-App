@@ -1,1 +1,1 @@
-web: streamlit run wordcloud2.py
+run wordcloud2.py
